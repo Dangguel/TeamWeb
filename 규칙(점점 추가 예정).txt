@@ -4,3 +4,5 @@ ex) src="./폴더이름/img.png" 로 가능하도록
 
 2. git branch는 안겹치게 본인의 이니셜 쓰고 뒤에 덧붙이기
 ex)sgs_hotpix
+
+3. 팀원이 이해 할 수 있도록 주석 달기
