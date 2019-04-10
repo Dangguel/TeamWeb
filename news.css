@@ -42,7 +42,7 @@ td a:hover{
 }
 
 .sub_visual {
-    background: url('../images/bg-news.jpg');
+    background: url('./news/bg-news.jpg');
     min-height: 499px;
     padding: 0 10px;
     text-align: center;
